@@ -26,26 +26,27 @@ about:
     #   aria-label: ORCID
 ---
 
-I am a **postdoctoral researcher** in BETSAKA project maintain by the [Malagasy National Research Center in Developement Economics (CERED)](https://albatross-project.eu/consortium/centre-detudes-et-de-recherchers-economiques-pour-le-developpement/) and the [ French National Research Institute for Sustainable Development (IRD)](https://en.ird.fr/), member of the [UMI SOURCE](https://www.umi-source.uvsq.fr/) ([University Paris-Saclay](https://www.universite-paris-saclay.fr/en)).
+I am a **postdoctoral researcher** in BETSAKA project conducted jointly by the [Malagasy National Research Center in Developement Economics (CERED)](https://albatross-project.eu/consortium/centre-detudes-et-de-recherchers-economiques-pour-le-developpement/) at Antananarivo University and the [ French National Research Institute for Sustainable Development (IRD)](https://en.ird.fr/), lecturer unpermanent in Economic Mention in the [Faculty of Economic, Gestion and Sociology](https://mg.linkedin.com/company/facult%C3%A9-egs-economie-gestion-sociologie-universit%C3%A9-antananarivo) at Antananarivo University , member of the [Doctoral research team (EAD)](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8) at the [Ecole Doctoral Ecosystèmes Naturels (EDEN)] (https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8at) at [Mahajanga University](https://www.mahajanga-univ.mg/)
 
-EDEN https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8
+I have a background in applied mathematics and statistics, specializing in actuarial science during my university studies
 
-I am an **applied environmental and development economist**. My research focuses on the adaptation to **climate change** and the **exploitation of natural resources** in Sub-Saharan Africa.
 
-I completed my PhD at [Paris-Saclay Applied Economics](https://www6.versailles-grignon.inrae.fr/psae) and the [Climate Economic Chair](https://www.chaireeconomieduclimat.org/en/) in September 2025, under the supervision of [Raja Chakir](https://sites.google.com/site/rajachakir/), [Philippe Delacote](https://sites.google.com/view/philippedelacote/) and [Julien Wolfersberger](https://julienwolfersberger.wordpress.com/).
+
+I completed my PhD at [Ecole Doctorale Ecosystèmes Naturels](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8at) in January 2025, under the supervision of [Senior Professor Hery Lisy Tiana RANARIJAONA](https://mg.linkedin.com/in/hery-lisy-tiana-ranarijaona-19707369) and [Senior Professor Heriniaina RAMANANKIERANA](https://mg.linkedin.com/in/heriniaina-ramanankierana-aa9336a8).
 
 You can contact me at my [email adress](mailto:v.ramizason@gmail.com).
 
 
 News
 ------------
-I will be in Madagascar from March to June 2026 to conduct fieldwork, as part of the [BETSAKA](https://betsaka.hypotheses.org/) project (Biodiversity and Ecosystem Services in Madagascar: Trade-offs and Synergies).
+
 
 
 Research Labs
 ------------
-- Ecole Doctorale Ecosystème Naturel - Université de Mahajanga - Madagascar
+- [Ecole Doctorale Ecosystèmes Naturels (EDEN)](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8at) - [Université de Mahajanga](https://www.mahajanga-univ.mg/) - Madagascar
 <!-- - [UMI SOURCE (University Paris-Saclay)](https://www.umi-source.uvsq.fr/) -->
+- Ecoe
 
 
-More information in my [CV](files/CV_Edouard_Pignede.pdf).
+More information in my [CV](files/RAMIZASON_VEROMANITRA_CV_EGS_2026.pdf).
