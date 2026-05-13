@@ -6,7 +6,7 @@ toc: true
 ------
 
 **Workshop on interpreting graphs and tables (CERED, University of Antananarivo)**
-Month?
+Month ?
 Level: PhD students
 Teaching load: 02 hours
 
