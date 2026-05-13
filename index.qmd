@@ -1,6 +1,6 @@
 ---
 title: "Veromanitra Noëlle RAMIZASON"
-subtitle: "Postdoctoral Researcher at IRD"
+subtitle: "Postdoctoral Researcher at IRD<br>Part-time lecturer at Antananarivo University"
 image: profile.JPG
 about:
   template: solana
