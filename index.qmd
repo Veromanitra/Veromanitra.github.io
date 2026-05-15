@@ -27,12 +27,12 @@ about:
 ---
 
 
-I am a **postdoctoral researcher** in the [BETSAKA project (Biodiversity-economic tradeoff and synergy assessments for conservation areas)](https://paires.hypotheses.org/betsaka-madagascar), conducted jointly by the [Malagasy National Research Center in Development Economics (CERED)](https://albatross-project.eu/consortium/centre-detudes-et-de-recherchers-economiques-pour-le-developpement/) at the [University of Antananarivo](https://www.univ-antananarivo.mg/) and the [French National Research Institute for Sustainable Development (IRD)](https://en.ird.fr/). I am also a part-time lecturer in the [Department of Economics at the Faculty of Economics, Management and Sociology](https://mg.linkedin.com/company/facult%C3%A9-egs-economie-gestion-sociologie-universit%C3%A9-antananarivo) of the University of Antananarivo, and a member of the [Doctoral Research Team (EAD)](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8) at the ["Ecole Doctorale Écosystèmes Naturels (EDEN)"](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8)
+I am a **postdoctoral researcher** in the [BETSAKA project (Biodiversity-economic tradeoff and synergy assessments for conservation areas)](https://paires.hypotheses.org/betsaka-madagascar), conducted jointly by the [Malagasy National Research Center in Development Economics (CERED)](https://albatross-project.eu/consortium/centre-detudes-et-de-recherchers-economiques-pour-le-developpement/) at the [University of Antananarivo](https://www.univ-antananarivo.mg/) and the [French National Research Institute for Sustainable Development (IRD)](https://en.ird.fr/). I am also a part-time lecturer in the [Department of Economics at the Faculty of Economics, Management and Sociology (EGS)](https://mg.linkedin.com/company/facult%C3%A9-egs-economie-gestion-sociologie-universit%C3%A9-antananarivo) of the University of Antananarivo, and a member of the [Doctoral Research Team (EAD)](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8) at the ["Ecole Doctorale Écosystèmes Naturels (EDEN)"](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8)
  of the [University of Mahajanga](https://www.mahajanga-univ.mg/).
 
 Specializing in climate change and environmental issues, I completed my PhD at the [Ecole Doctorale Ecosystèmes Naturels](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8at) under the supervision of [Senior Professor Hery Lisy Tiana RANARIJAONA](https://mg.linkedin.com/in/hery-lisy-tiana-ranarijaona-19707369) and [Senior Professor Heriniaina RAMANANKIERANA](https://mg.linkedin.com/in/heriniaina-ramanankierana-aa9336a8).
 
-Having a background in applied mathematics and statistics, with a specialization in actuarial science during my university studies at [Aix-Marseille University](https://maths.univ-amu.fr/master-mas/les-parcours-de-mas/parcours-ingenierie-mathematique-et-science-actuarielle-imsa/), I gained solid professional experience in statistics and national accounting before moving into research.
+Having a background in Applied Mathematics and Statistics with a specialization in Mathematical modeling and Actuarial science during my university studies at [Aix-Marseille University](https://maths.univ-amu.fr/master-mas/les-parcours-de-mas/parcours-ingenierie-mathematique-et-science-actuarielle-imsa/) in France, I gained solid professional experience in statistics, database management and national accounting before moving into research.
 
 You can contact me at my [email adress](mailto:v.ramizason@gmail.com).
 
@@ -44,9 +44,9 @@ News
 
 Research Labs
 ------------
-- [Ecole Doctorale Ecosystèmes Naturels (EDEN)](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8at) - [Université de Mahajanga](https://www.mahajanga-univ.mg/) - Madagascar
+- [Ecole Doctorale Ecosystèmes Naturels (EDEN)](https://hayka.mg/ed/ecosyst%C3%A8mes-naturels-8at) - [Université de Mahajanga](https://www.mahajanga-univ.mg/) - Madagascar.
 <!-- - [UMI SOURCE (University Paris-Saclay)](https://www.umi-source.uvsq.fr/) -->
-- [Centre d'Etudes et de Recherches en Economie pour le Développement](https://albatross-project.eu/consortium/centre-detudes-et-de-recherchers-economiques-pour-le-developpement/) - [University of Antananarivo](https://www.univ-antananarivo.mg/)
+- [Centre d'Etudes et de Recherches en Economie pour le Développement](https://albatross-project.eu/consortium/centre-detudes-et-de-recherchers-economiques-pour-le-developpement/) - [University of Antananarivo](https://www.univ-antananarivo.mg/) - Madagascar.
 
 
 <!-- More information in my [CV](files/RAMIZASON_VEROMANITRA_CV_EGS_2026.pdf). -->
